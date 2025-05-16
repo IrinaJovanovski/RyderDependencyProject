@@ -1,5 +1,5 @@
 # RyderDependencyProject
-Task #1 - **Vertices** \
+Task #1 - **Dependency Diagram** \
 Develop a GUI application in Kotlin that allows users to visualize and interact with directed graphs. You can use any UI framework you prefer, such as Swing, JavaFX, or Compose for Desktop. \
 The application should have a diagram display area where the graph is rendered. To generate the diagram, you can use a library like PlantUML or Mermaid, either by calling a local function or making a request to a remote service that returns the generated image. \
 Users will define their graphs through a graph input area, which should be a simple text box where they can enter an edge list. Each line represents a connection between two vertices, for example, A -> B means there is a directed edge from A to B. This input should always be editable, allowing users to modify the graph at any time. \
